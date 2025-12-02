@@ -1,0 +1,7 @@
+# Correct:
+train: /content/drive/MyDrive/Western University/Fall-Winter 2025-2026/DS3000A/Final Project/parking_dataset/train/images
+val: /content/drive/MyDrive/Western University/Fall-Winter 2025-2026/DS3000A/Final Project/parking_dataset/val/images
+test: /content/drive/MyDrive/Western University/Fall-Winter 2025-2026/DS3000A/Final Project/parking_dataset/test/images
+
+nc: 2
+names: ['vacant', 'occupied'] 
